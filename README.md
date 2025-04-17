@@ -1,6 +1,6 @@
-# Chat Application Guide
+# How to use
 
-This guide will walk you through the steps of running and using the multi-client chat application with private and public messaging features.
+This guide will walk you through running and using the multi-client chat application with private and public messaging features.
 
 ---
 
